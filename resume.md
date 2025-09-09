@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /resume-and-achievement/
+permalink: /resume/
 ---
 
 # My Resume
