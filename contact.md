@@ -7,15 +7,10 @@ permalink: /contact/
 # Contact Me
 I'm always happy to connect! Here’s how you can reach me:
 
----
-
-# Name:
-**Kayla Hussey**
-
 # Email:
-**kahqgc@gmail.com**
+kahqgc@gmail.com
 
-### 🌐 Links:
+#Links:
 
 - [LinkedIn](https://www.linkedin.com/in/kayla-hussey-80868ba6/)
 - [GitHub](https://github.com/kahqgc)
