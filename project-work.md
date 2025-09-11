@@ -6,7 +6,8 @@ permalink: /project-work/
 
 # My Projects
 
-# Project Name: Earthpulse: An Interactive Multi-event Scheduler
+# Project Name: 
+Earthpulse: An Interactive Multi-event Scheduler
 
 # Description:
 
