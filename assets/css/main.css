@@ -54,8 +54,8 @@ nav a:hover {
   padding: 2em;
 }
 
-/* /* ==== GRADIENT DIVIDER ==== */
-.divider {
+/* ==== GRADIENT DIVIDER ==== */
+/* .divider {
   height: 15px;
   background: linear-gradient(to right, #edc28f, #90c3a8);
   border-radius: 10px;
