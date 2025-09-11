@@ -1,5 +1,3 @@
-# Welcome to My Portfolio
-
 Hi! I'm Kayla, a Registered Nurse turned aspiring software developer. I've recently completed a front-end project using React and am passionate about solving real-world problems with clean, efficient code.
 
 ### What I Can Do:
