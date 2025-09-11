@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: kahqgc's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+nav:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume-and-achievements/
+  - title: Project Work
+    url: /project-work/
+  - title: Contact
+    url: /contact/
