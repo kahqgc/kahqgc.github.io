@@ -18,7 +18,7 @@ h1, h2, h3 {
 
 a {
   color: #4444aa;
-  text-decoration: none;
+/*   text-decoration: none; */
 }
 
 a:hover {
@@ -30,12 +30,12 @@ header {
   background-color: #fdf7e2;
   padding: 1em 0;
   text-align: center;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+/*   box-shadow: 0 2px 4px rgba(0,0,0,0.1); */
 }
 
-nav {
+/* nav {
   margin-top: 10px;
-}
+} */
 
 nav a {
   margin: 0 15px;
@@ -54,20 +54,20 @@ nav a:hover {
   padding: 2em;
 }
 
-/* ==== GRADIENT DIVIDER ==== */
+/* /* ==== GRADIENT DIVIDER ==== */
 .divider {
   height: 15px;
   background: linear-gradient(to right, #edc28f, #90c3a8);
   border-radius: 10px;
   margin: 2em 0;
-}
+} */
 
 /* ==== RESUME PREVIEW (iframe) ==== */
 iframe {
   width: 100%;
   height: 600px;
-  border: 1px solid #ccc;
+/*   border: 1px solid #ccc;
   border-radius: 10px;
   box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
-  margin-top: 1em;
+  margin-top: 1em; */
 }
