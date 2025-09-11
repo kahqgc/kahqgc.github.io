@@ -23,6 +23,7 @@ Key Features: <br>
 # Screenshot:
 
 ![Screenshot of project](/assets/project-screenshot.png)
+![Screenshot of project](/assets/project2-screenshot.png)
 
 ---
 
