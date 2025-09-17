@@ -6,6 +6,9 @@ baseurl: ""
 
 github_username: kahqgc
 
+plugins:
+-jekyll-feed
+
 #NavBar Links
 nav:
   - title: Home
@@ -16,6 +19,3 @@ nav:
     url: /project-work/
   - title: Contact
     url: /contact/
-
-markdown: kramdom
-lightlighter: rouge
