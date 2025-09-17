@@ -7,7 +7,8 @@ baseurl: ""
 github_username: kahqgc
 
 plugins:
--jekyll-feed
+  - jekyll-feed
+
 
 #NavBar Links
 nav:
