@@ -8,4 +8,4 @@ Hi! I'm Kayla, a Registered Nurse turned aspiring software developer. I've recen
 - Team collaboration and high-pressure environments
 
 ### What I’m Looking For:
-A junior dev or DevOps role where I can grow my skills while contributing to meaningful projects.
+A junior dev or DevOps role where I can grow my skills while contributing to meaningful projects. 
