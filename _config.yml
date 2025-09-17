@@ -1,40 +1,19 @@
-# theme: minima
-# title: kahqgc's homepage
-# description: Bookmark this to keep an eye on my project updates!
+theme: jekyll-theme-portfolio
+title: kahqgc's homepage
+description: Bookmark this to keep an eye on my project updates!
 
-# github_username: kahqgc
+github_username: kahqgc
 
-# nav:
-#   - title: Home
-#     url: /
-#   - title: Resume
-#     url: /resume/
-#   - title: Project Work
-#     url: /project-work/
-#   - title: Contact
-#     url: /contact/
+#NavBar Links
+nav:
+  - title: Home
+    url: /
+  - title: Resume
+    url: /resume/
+  - title: Project Work
+    url: /project-work/
+  - title: Contact
+    url: /contact/
 
-# This is how Jekyll knows to use this theme.
-remote_theme: tedivm/jekyll-theme-portfolio
-
-
-title: Your awesome title
-author: Your Name
-email: your-email@domain.com
-description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
-
-# Header Links - all optional. If set these create header links.
-homepage: https://your.homepage.com
-twitter_username: example
-github_username: example
-linkedin_username: example
-
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jekyll-remote-theme # Lets us test remote themes locally.
+markdown: kramdom
+lightlighter: rouge
