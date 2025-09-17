@@ -7,7 +7,7 @@ baseurl: ""
 github_username: kahqgc
 
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 
 #NavBar Links
