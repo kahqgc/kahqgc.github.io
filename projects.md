@@ -8,8 +8,8 @@ permalink: /projects/
 
 ## EarthPulse: An Interactive Multi-event Scheduler
 
-![EarthPulse Screenshot](/assets/img/project2-screenshot.png)
-![EarthPulse Screenshot](/assets/img/project1-screenshot.png)
+![EarthPulse Screenshot](/assets/project2-screenshot.png)
+![EarthPulse Screenshot](/assets/project-screenshot.png)
 
 **Description:**  
 A capstone project built during LaunchCode that visualizes a dynamic, modular schedule layout with React.
