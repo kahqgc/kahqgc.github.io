@@ -1,10 +1,16 @@
-----
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+---
 title: Earthpulse: An Interactive Multi-event Scheduler
 description: A capstone project built during LaunchCode that visualizes a dynamic, modular schedule layout with React.
 tools: [HTML, CSS, JavaScript, React, React Router]
 link: https://interactive-multi-event-schedule.netlify.app/#/
 image: /assets/img/project2-screenshot.png
-----
+---
 
 **Key Features: <br>**
 -Dynamic Schedule Rendering: Utilizes .reduce() and .forEach() to map and display a multi-track schedule from a JSON data file.<br>
