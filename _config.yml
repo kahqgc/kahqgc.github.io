@@ -10,14 +10,3 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
-
-# #NavBar Links
-# nav:
-#   - title: Home
-#     url: /
-#   - title: Resume
-#     url: /resume/
-#   - title: Project Work
-#     url: /project-work/
-#   - title: Contact
-#     url: /contact/
