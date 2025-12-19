@@ -22,9 +22,26 @@ HTML, CSS, JavaScript, React, React Router
 - **Interactive Popups:** Custom modal component reveals session details using controlled React state and helper functions.
 - **Local Note-Taking:** Users can take, edit, and save personal notes tied to individual events using `localStorage` and unique event IDs.
 
-🔗 [Live Project](https://interactive-multi-event-schedule.netlify.app/#/)
+ [Live Project](https://interactive-multi-event-schedule.netlify.app/#/)
 
 ---
 
-_More projects coming soon..._
+## St. Louis Restaurant Adventure  
+
+**Description:**  
+A mobile-first, game-show-style web app that helps users decide where to eat in St. Louis by filtering cuisine and budget or generating a completely random restaurant for a fun, low-pressure decision-making experience.
+
+**Tech Stack:**  
+HTML, CSS, JavaScript
+
+**Key Features:**
+
+- **Dynamic Filtering Logic:** Filters restaurants by cuisine and price using JavaScript array methods like `.filter()` and `.map()` on a structured data set.
+- **Randomized Selection Mode:** Generates a surprise restaurant pick that ignores filters, turning the app into a playful “decision game.”
+- **Mobile-First Responsive Design:** Designed primarily for phone use, with CSS media queries that transform the layout into a full-screen app experience on small devices.
+- **Lightweight Architecture:** Frontend-only implementation with clean data modeling, making it easy to extend later with APIs or additional filters.
+
+ **Live Project**
+ [Live Project](https://st-louis-restaurant-picker.netlify.app/#/)
+
 
