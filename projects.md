@@ -27,6 +27,7 @@ HTML, CSS, JavaScript, React, React Router
 ---
 
 ## St. Louis Restaurant Adventure  
+![St Louis Picker Screenshot](/assets/Screenshot 2025-12-19 175059.png)
 
 **Description:**  
 A mobile-first, game-show-style web app that helps users decide where to eat in St. Louis by filtering cuisine and budget or generating a completely random restaurant for a fun, low-pressure decision-making experience.
