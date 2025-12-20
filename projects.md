@@ -42,7 +42,6 @@ HTML, CSS, JavaScript
 - **Mobile-First Responsive Design:** Designed primarily for phone use, with CSS media queries that transform the layout into a full-screen app experience on small devices.
 - **Lightweight Architecture:** Frontend-only implementation with clean data modeling, making it easy to extend later with APIs or additional filters.
 
- **Live Project**
  [Live Project](https://st-louis-restaurant-picker.netlify.app/#/)
 
 
